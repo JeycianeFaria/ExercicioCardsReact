@@ -2,12 +2,18 @@
     border: 3px solid #1F6673;
     border-radius: 15px;
     background-color: #41D8F2;
-    margin: 20px;
-
+    margin: 50px;
     display: flex;
     flex-direction: column;
     min-width: 300px;
+    height: 100px;
 }
+
+.Card:hover{
+    background-color: #309FB3;
+    transition: 0.3s;
+}
+
 
 .Card .Header {
     background-color: #309FB3;
@@ -15,6 +21,7 @@
     padding: 10px 0px; 
     border-radius: 10px;
 }
+
 
 .Card .Conteudo {
     background-color: #45E3FF;

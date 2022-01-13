@@ -6,5 +6,5 @@ body{
     font-weight: 300;
     font-size: 1.4rem;
     display: flex;
-    justify-content: space-around;
+    max-height: 100px;
 }
