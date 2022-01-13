@@ -1,4 +1,6 @@
 import react from "react";
+import './Card.css'
+
 
 
 // eslint-disable-next-line import/no-anonymous-default-export
