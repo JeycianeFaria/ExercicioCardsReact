@@ -10,7 +10,7 @@
 
     margin: 50px;
     min-width: 300px;
-    height: 250px;
+    height: 300px;
 }
 
 .Card:hover{
@@ -28,15 +28,14 @@
 
     padding: 10px 0px; 
     border-radius: 10px;
-    
-    
+       
 }
 
 .Conteudo{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 200px;
+    height:100%;
     
     font-weight: bold;
     letter-spacing: 1.5px;
